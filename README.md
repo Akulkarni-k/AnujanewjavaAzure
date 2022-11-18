@@ -1,0 +1,2 @@
+# AnujanewjavaAzure
+deployed on Azure
